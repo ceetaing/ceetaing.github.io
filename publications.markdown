@@ -16,10 +16,12 @@ A. Lorz, B. Perthame, C. Taing. Dirac Concentrations in a Chemostat Model of Ada
 
 ## Proceedings 
 
-G. Jankowiak, C. Taing, C. Poignard, A. Collin. Comparison and calibration of different electroporation models. Application to rabbit livers experiments. In ESAIM Proceedings and Surveys, 2020/
+G. Jankowiak, C. Taing, C. Poignard, A. Collin. Comparison and calibration of different electroporation models. Application to rabbit livers experiments. In ESAIM Proceedings and Surveys, 2020.
 
 ## Thesis
 
 Concentration dynamics in non local partial differential equations from biology, defended on June 1rst, 2018.
 
 ## Unpublished works
+
+A. El Dakdouki, C. Robet, B. Simon, C. Taing. Comparaison du niveau de réponse immunitaire moyen entre des groupes de traitements comprenant des répondeurs et des non répondeurs. Rapport de recherche AMIES. 2017.

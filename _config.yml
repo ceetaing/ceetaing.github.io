@@ -22,10 +22,6 @@ title: Cécile Taing
 email: cecile.taing@univ-poitiers.fr
 description: >- # this means to ignore newlines until "baseurl:"
   LMA - Université de Poitiers
-  Site du Futuroscope - Téléport 2
-  11 Boulevard Marie et Pierre Curie
-  Bâtiment H3 - TSA 61125
-  86073 POITIERS CEDEX 9
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

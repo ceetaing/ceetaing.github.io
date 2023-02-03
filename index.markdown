@@ -6,9 +6,16 @@ layout: home
 ---
 I am an assistant professor in mathematics at the Laboratoire de Mathématiques et Applications of the University of Poitiers.
 
-My research interests :
+**My research interests :**
 - Partial differential equations
 - Mathematical biology
 - Population dynamics
 - Asymptotic preserving schemes
-- Numerical calibration and statistics
+- Numerical calibration and statistics for biology
+
+**Address :**  
+LMA - Université de Poitiers  
+Site du Futuroscope - Téléport 2  
+11 Boulevard Marie et Pierre Curie  
+Bâtiment H3 - TSA 61125  
+86073 POITIERS CEDEX 9
