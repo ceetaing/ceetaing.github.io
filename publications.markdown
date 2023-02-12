@@ -23,7 +23,7 @@ G. Jankowiak, C. Taing, C. Poignard, A. Collin. Comparison and calibration of di
 
 ## Thesis
 
-Concentration dynamics in non local partial differential equations from biology, defended on June 1rst, 2018. [HAL](https://hal.science/tel-02485006v2).
+Concentration dynamics in non local partial differential equations from biology, defended on June 1st, 2018. [HAL](https://hal.science/tel-02485006v2).
 
 ## Unpublished works
 
