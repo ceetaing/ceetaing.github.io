@@ -4,7 +4,7 @@
 
 layout: home
 ---
-I am an assistant professor in mathematics at the [Laboratoire de Mathématiques et Applications](http://rech-math.sp2mi.univ-poitiers.fr/) of the [University of Poitiers](https://www.univ-poitiers.fr/).
+I am an associate professor in mathematics at the [Laboratoire de Mathématiques et Applications](https://laboratoire-mathematiques-univ-poitiers.apps.math.cnrs.fr/) of the [University of Poitiers](https://www.univ-poitiers.fr/).
 
 ## Research interests 
 - Partial differential equations

@@ -37,9 +37,12 @@ theme: minima
 plugins:
   #- jekyll-feed
 
+minima:
+  skin : dark
 #header_pages:
 #  - about.md
 #  - publications.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

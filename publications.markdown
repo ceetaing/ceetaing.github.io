@@ -6,6 +6,8 @@ permalink: /publications/
 
 ## Preprints
 
+A. Frouvelle, C. Taing. On the Fisher infinitesimal model without variability. [HAL](https://hal.science/hal-04168272).
+
 ## Articles 
 
 B. Perthame, M. Strugarek, C. Taing. Selection–mutation dynamics with asymmetrical reproduction kernels. In Nonlinear Analysis, 2022. [HAL](https://hal.science/hal-03423260v2) and
@@ -26,5 +28,8 @@ G. Jankowiak, C. Taing, C. Poignard, A. Collin. Comparison and calibration of di
 Concentration dynamics in non local partial differential equations from biology, defended on June 1st, 2018. [HAL](https://hal.science/tel-02485006v2).
 
 ## Unpublished works
+
+
+L. S. Cooley, J. Rudewicz, W. Souleyreau et al, A multi-layered systems approach for renal cell carcinoma. 2020. [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.01.13.904235v2).
 
 A. El Dakdouki, C. Robet, B. Simon, C. Taing. Comparaison du niveau de réponse immunitaire moyen entre des groupes de traitements comprenant des répondeurs et des non répondeurs. Rapport de recherche AMIES. 2017. [HAL](https://hal.science/hal-01491661v1).
