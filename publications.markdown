@@ -6,9 +6,10 @@ permalink: /publications/
 
 ## Preprints
 
-A. Frouvelle, C. Taing. On the Fisher infinitesimal model without variability. [HAL](https://hal.science/hal-04168272).
 
 ## Articles 
+
+A. Frouvelle, C. Taing. On the Fisher infinitesimal model without variability. In Journal of Statistical Physics, 2025. [HAL](https://hal.science/hal-04168272) and [DOI](https://doi.org/10.1007/s10955-024-03386-6).
 
 B. Perthame, M. Strugarek, C. Taing. Selection–mutation dynamics with asymmetrical reproduction kernels. In Nonlinear Analysis, 2022. [HAL](https://hal.science/hal-03423260v2) and
 [DOI](https://doi.org/10.1016/j.na.2022.112947).
